@@ -37,7 +37,6 @@
   </dependencies>
 
   <modules>
-    <module>ant</module>
     <module>daemon</module>
     <module>maven2</module>
   </modules>
